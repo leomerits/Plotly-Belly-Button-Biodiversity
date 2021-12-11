@@ -14,3 +14,4 @@ The aim of this project is to get a completed panael of demographic information 
 
 
 # Summary:
+With the use of JavaScript, we were able to create data visualizations that are attractive, accessible and interactive. With the use of plotly.js, we were able to offer our audience the interactivity that increases their comprehension. With the use of JavaScript we were able to manipulate data, create interactive features such as buttons and drop down menus, as well as to retrieve data from external sources like csv files and API's and deploying data visualization to the web all by the power of JavaScript.
